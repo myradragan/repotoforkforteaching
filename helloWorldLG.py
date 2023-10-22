@@ -6,5 +6,5 @@ var2 = 234
 resultA = (var1 + var2)
 #I tried, but I don't get it
 # c=a+b also didn't work
-
-    
+# I did so much in Git Bash, but you can't see that right? Only this file?  
+print ("goodbye")
